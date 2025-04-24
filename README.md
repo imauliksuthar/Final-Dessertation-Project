@@ -1,2 +1,8 @@
 # Final-Dessertation-Project
- Final Dessertation for Msc. Business Analytics Course
+
+Final Dessertation for Msc. Business Analytics Course
+
+FinTech Innovations' Effect on UK’s Conventional Residential Mortgage
+
+The FinTech innovations research focuses on how Fintech innovations influence the traditional UK residential mortgage lending market. Using quantitative methods, it studies the effect of digital technologies – from AI and to blockchain – on mortgage processes, efficiency and the level of (digital) consumer accessibility. All analyses are carried out based on the 'UK Mortgage Rates' dataset from Kaggle by employing logistic regression, ARIMA models and chi square tests to assess the connection between FinTech and how lending is handled. We find that logistic regression can provide a 95% accuracy rate on mortgage approval prediction, showing how FinTech platforms enable streamlining of processes and being more inclusive for underserved populations like freelancers and first-time buyers. ARIMA model predicts larger share of mortgage platforms will adopt digital mortgage platforms in the future, and as more FinTech market share, potentially driving down mortgage interest rates with increased competition. Additional validation of the importance the FinTech has in the reduction of loan approval times and enhanced access to loan comes in the chi-square test. The study also indicates that these innovations present regulatory and compliance issues, especially in the areas of AML, data privacy and cybersecurity risks. The research concludes that even though FinTech has rejuvenated the mortgage lending industry by improving efficiency and facilitating broader participation, there may come certain risks associated with technological dependence and regulation. These findings give important guidance for regulatory and financial institutions who should adopt balanced regulatory frameworks so growth in the mortgage sector can be sustainable.
+
